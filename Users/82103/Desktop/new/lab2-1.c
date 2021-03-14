@@ -5,6 +5,7 @@ char charType;      //변수 선언
 int integerType;  //
 float floatType;  
 double doubleType;
+printf("practice git\n");
 
 printf("[----- [Noh Min Sung] [2018038076] -----]\n");
 printf("Size of char: %ld byte\n",sizeof(charType));         //char형 변수 charType 크기는 1바이트
